@@ -13,3 +13,4 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 699328 | Xian Pan | https://github.com/DreamaerD/lab4-websockets/tree/test | [![Build Status](https://travis-ci.org/DreamaerD/lab4-websockets.svg?branch=test)](https://travis-ci.org/DreamaerD/lab4-websockets) | | 
 698367 | Iván Santamaría | https://github.com/ivsm/lab4-websockets/tree/test | [![Build Status](https://travis-ci.org/ivsm/lab4-websockets.svg?branch=test)](https://travis-ci.org/ivsm/lab4-websockets) | | |
 568051 | Sergio Andrés Muniesa | https://github.com/sandresmuniesa/lab4-websockets/tree/test | [![Build Status](https://travis-ci.org/sandresmuniesa/lab4-websockets.svg?branch=test)](https://travis-ci.org/sandresmuniesa/lab4-websockets) | | |
+699329 | David Fustero | https://github.com/fiusa8/lab4-websockets/tree/test | [![Build Status](https://travis-ci.org/fiusa8/lab4-websockets.svg?branch=test)](https://travis-ci.org/fiusa8/lab4-websockets) | | |
